@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11230" started-at="2022-12-17T06:55:15Z" finished-at="2022-12-17T06:55:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11230" started-at="2022-12-17T06:55:15Z" finished-at="2022-12-17T06:55:26Z">
+      <class name="com.crm.crmApp_1.forgotPassword">
+        <test-method status="PASS" signature="forgotPasswordTest()[pri:0, instance:com.crm.crmApp_1.forgotPassword@78b729e6]" name="forgotPasswordTest" duration-ms="3198" started-at="2022-12-17T06:55:23Z" finished-at="2022-12-17T06:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswordTest -->
+      </class> <!-- com.crm.crmApp_1.forgotPassword -->
+      <class name="com.crm.crmApp_1.LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.crm.crmApp_1.LoginTest@501edcf1]" name="loginTest" duration-ms="8005" started-at="2022-12-17T06:55:15Z" finished-at="2022-12-17T06:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.crm.crmApp_1.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
